@@ -7,7 +7,7 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemakram40/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseem3423)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseemakram-dev)
 
 ---
 
@@ -48,11 +48,11 @@
 
 <div align="center">
 
-![Waseem's Contribution Graph](https://ghchart.rshah.org/538C1A/waseem3423)
+![Waseem's Contribution Graph](https://ghchart.rshah.org/538C1A/waseemakram-dev)
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waseem3423&theme=react-dark&hide_border=true)](https://github.com/waseem3423)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waseemakram-dev&theme=react-dark&hide_border=true)](https://github.com/waseemakram-dev)
 
 </div>
 
@@ -62,12 +62,12 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 💬 **[SAAS Live Chat](https://github.com/waseem3423/SAAS-LIVE-CHAT)** | Real-time SaaS Live Chat application frontend & backend | TypeScript, Python |
-| 📱 **[MDM App](https://github.com/waseem3423/mdm-app)** | Mobile Device Management Android Application | Kotlin, Android |
-| 🎨 **[Calli-Qalam](https://github.com/waseem3423/Calli-Qalam)** | Digital calligraphy and web art showcase | TypeScript, Tailwind |
-| 📄 **[Invoice System](https://github.com/waseem3423/invoice-frontend)** | Full-stack Invoicing Application for businesses | TypeScript, Node.js |
-| ✉️ **[Temp Mail](https://github.com/waseem3423/temp_mail)** | Temporary disposable email service | TypeScript |
-| ⚡ **[Wate Language](https://github.com/waseem3423/wate)** | Lightweight programming language VM with package manager | JavaScript |
+| 💬 **[SAAS Live Chat](https://github.com/waseemakram-dev/SAAS-LIVE-CHAT)** | Real-time SaaS Live Chat application frontend & backend | TypeScript, Python |
+| 📱 **[MDM App](https://github.com/waseemakram-dev/mdm-app)** | Mobile Device Management Android Application | Kotlin, Android |
+| 🎨 **[Calli-Qalam](https://github.com/waseemakram-dev/Calli-Qalam)** | Digital calligraphy and web art showcase | TypeScript, Tailwind |
+| 📄 **[Invoice System](https://github.com/waseemakram-dev/invoice-frontend)** | Full-stack Invoicing Application for businesses | TypeScript, Node.js |
+| ✉️ **[Temp Mail](https://github.com/waseemakram-dev/temp_mail)** | Temporary disposable email service | TypeScript |
+| ⚡ **[Wate Language](https://github.com/waseemakram-dev/wate)** | Lightweight programming language VM with package manager | JavaScript |
 
 ---
 
